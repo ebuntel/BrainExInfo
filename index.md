@@ -10,4 +10,4 @@
 
 ### People
 
-
+![](rodica.jpg)
