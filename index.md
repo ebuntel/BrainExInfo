@@ -11,7 +11,9 @@
 ### People
 
 #### Rodica Neamtu
-![](rodica.jpg=200x200)
+
+![](rodica.jpg=250x200)
+
 Professor
 Computer Science & Data Science
 Email: rneamtu at wpi.edu
