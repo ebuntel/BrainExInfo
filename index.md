@@ -10,4 +10,4 @@
 
 ### People
 
-![](rodica.jpg =200x200)
+![](rodica.jpg=200x200)
