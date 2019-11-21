@@ -12,7 +12,7 @@
 
 #### Rodica Neamtu
 
-![Rodica](rodica.jpg)
+![](rodica.jpg)
 
 Professor
 Computer Science & Data Science
