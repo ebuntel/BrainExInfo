@@ -2,14 +2,12 @@
 
 ### Introduction
 
+BrainEx is a system in development for exploring similarities in time-series data. Built on the [ONEX](https://c2research.github.io/onex-website/) time-series exploration algorithm, BrainEx allows for evaluation of similaritiy between time-series of different lengths while maintaining a high level of efficiency and interactivity. This is accomplished by using clustering based on euclidean distances in the preprocessing step to reduce the amount of relevant data at query-time. BrainEx can then use relatively expensive distance algorithms at query-time while maintaining high speed. This is particularly desirable for applications such as time-series fNIRS data which is extremely computationally costly to work with using generic algorithms.    
+
 ### Publications 
 
 * Neamtu, R., Ahsan, R., Rundensteiner, E., & Sarkozy, G. (2016). Interactive time series exploration powered by the marriage of similarity distances. Proceedings of the VLDB Endowment, 10(3), 169-180. ([pdf](InteractiveTimeSeriesExploration.pdf))
 * Neamtu, R., Ahsan, R., Nguyen, C., Lovering, C., Rundensteiner, E., & Sarkozy, G. (2019). Harnessing the Power of Multi-Warped Distances for Interactive Similarity Exploration. Proceedings of the VLDB endowment, 12. ([pdf](genex1.pdf))
-
-### Datasets
-
-### Projects
 
 ### People
 
