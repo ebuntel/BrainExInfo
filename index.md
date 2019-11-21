@@ -13,7 +13,9 @@
 #### [Rodica Neamtu](http://web.cs.wpi.edu/~rneamtu/)
 
 Professor
+
 Computer Science & Data Science
+
 Email: rneamtu at wpi.edu
 
 ####  [Elke Rudensteiner](http://davis.wpi.edu/dsrg/MEMBERS/rundenst/)
