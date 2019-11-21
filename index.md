@@ -4,8 +4,8 @@
 
 ### Publications 
 
-* Neamtu, R., Ahsan, R., Rundensteiner, E., & Sarkozy, G. (2016). Interactive time series exploration powered by the marriage of similarity distances. Proceedings of the VLDB Endowment, 10(3), 169-180.
-* eh
+* Neamtu, R., Ahsan, R., Rundensteiner, E., & Sarkozy, G. (2016). Interactive time series exploration powered by the marriage of similarity distances. Proceedings of the VLDB Endowment, 10(3), 169-180. ([pdf](InteractiveTimeSeriesExploration.pdf))
+* Neamtu, R., Ahsan, R., Nguyen, C., Lovering, C., Rundensteiner, E., & Sarkozy, G. (2019). Harnessing the Power of Multi-Warped Distances for Interactive Similarity Exploration. Proceedings of the VLDB endowment, 12. ([pdf](genex1.pdf))
 
 ### Datasets
 
