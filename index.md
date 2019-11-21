@@ -4,6 +4,9 @@
 
 ### Publications 
 
+* Neamtu, R., Ahsan, R., Rundensteiner, E., & Sarkozy, G. (2016). Interactive time series exploration powered by the marriage of similarity distances. Proceedings of the VLDB Endowment, 10(3), 169-180.
+* eh
+
 ### Datasets
 
 ### Projects
@@ -17,6 +20,14 @@ Professor
 Computer Science & Data Science
 
 Email: rneamtu at wpi.edu
+
+#### [Erin Solovey](http://users.wpi.edu/~esolovey/)
+
+Professor
+
+Computer Science
+
+Email: esolovey at wpi.edu
 
 ####  [Elke Rudensteiner](http://davis.wpi.edu/dsrg/MEMBERS/rundenst/)
 
