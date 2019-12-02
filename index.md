@@ -77,6 +77,8 @@ Email: zli12 at wpi.edu
 
 #### [Ellery Buntel](www.linkedin.com/in/ellery-buntel)
 
+<img src="EJB.png" alt="hi" class="inline"/>
+
 Undergraduate Student
 
 Computer Science
