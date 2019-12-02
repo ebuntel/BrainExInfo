@@ -11,18 +11,19 @@ BrainEx is a system in development for exploring similarities in time-series dat
 
 ### People
 
-|---|---|---|---|---|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+Picture | Name | Position | Discipline | Email
+---|---|---|---|---
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
 
 #### [Rodica Neamtu](http://web.cs.wpi.edu/~rneamtu/)
 
