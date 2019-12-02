@@ -23,6 +23,8 @@ Email: rneamtu at wpi.edu
 
 #### [Erin Solovey](http://users.wpi.edu/~esolovey/)
 
+<img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/ErinSolovey.jpg?raw=true" class="inline" width="100" height="100"/>
+
 Professor
 
 Computer Science
@@ -30,6 +32,8 @@ Computer Science
 Email: esolovey at wpi.edu
 
 ####  [Elke Rudensteiner](http://davis.wpi.edu/dsrg/MEMBERS/rundenst/)
+
+<img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/elke.jpg?raw=true" class="inline" width="100" height="100"/>
 
 Professor
 
@@ -39,6 +43,8 @@ Email: rundenst at cs.wpi.edu
 
 #### [Garbor Sarkozy](http://web.cs.wpi.edu/~gsarkozy/)
 
+<img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/gsarkozy.jpg?raw=true" class="inline" width="100" height="100"/>
+
 Professor
 
 Computer Science
@@ -46,6 +52,8 @@ Computer Science
 Email: gsarkozy at cs.wpi.edu
 
 #### [Ramoza Ahsan](http://web.cs.wpi.edu/~rahsan/)
+
+<img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/ramoza.jpg?raw=true" class="inline" width="100" height="100"/>
 
 PhD Candidate
 
@@ -55,6 +63,8 @@ Email: rahsan at wpi.edu
 
 #### [Yu Li](https://www.linkedin.com/in/yli14/)
 
+<img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/person.jpg?raw=true" class="inline" width="100" height="100"/>
+
 MS Student
 
 Computer Science
@@ -63,6 +73,8 @@ Email: yli14 at wpi.edu
 
 #### [Yuncong Ma](https://www.linkedin.com/in/yuncong-ma-a26b89104/)
 
+<img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/person.jpg?raw=true" class="inline" width="100" height="100"/>
+
 MS Student
 
 Computer Science
@@ -70,6 +82,8 @@ Computer Science
 Email: yma10 at wpi.edu
 
 #### [Ziheng Li](https://www.linkedin.com/in/ziheng-leo-li/)
+
+<img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/person.jpg?raw=true" class="inline" width="100" height="100"/>
 
 Undergraduate Student
 
@@ -86,3 +100,23 @@ Undergraduate Student
 Computer Science
 
 Email: ebuntel at wpi.edu
+
+#### [Cuong D. T. Nguyen](https://www.linkedin.com/in/cuongdtn/)
+
+<img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/cuongn.jpg?raw=true" class="inline" width="100" height="100"/>
+
+Undergraduate Student
+
+Computer Science
+
+Email: ctnguyendinh at wpi.edu
+
+#### [Charles Lovering](https://www.linkedin.com/in/cjlovering/)
+
+<img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/person.jpg?raw=true" class="inline" width="100" height="100"/>
+
+Undergraduate Student
+
+Computer Science
+
+Email: cjlovering at wpi.edu
