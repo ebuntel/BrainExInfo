@@ -9,6 +9,10 @@ BrainEx is a system in development for exploring similarities in time-series dat
 * Neamtu, R., Ahsan, R., Rundensteiner, E., & Sarkozy, G. (2016). Interactive time series exploration powered by the marriage of similarity distances. Proceedings of the VLDB Endowment, 10(3), 169-180. ([pdf](InteractiveTimeSeriesExploration.pdf))
 * Neamtu, R., Ahsan, R., Nguyen, C., Lovering, C., Rundensteiner, E., & Sarkozy, G. (2019). Harnessing the Power of Multi-Warped Distances for Interactive Similarity Exploration. Proceedings of the VLDB endowment, 12. ([pdf](genex1.pdf))
 
+### Previous Work
+
+BrainEx is based upon the [ONEX](https://c2research.github.io/onex-website/) time series exploration system.
+
 ### People
 
 Picture | Name | Position | Discipline | Email
