@@ -13,7 +13,7 @@ BrainEx is a system in development for exploring similarities in time-series dat
 
 Picture | Name | Position | Discipline | Email
 ---|---|---|---|---
- | | | | 
+ <img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/rneamtu.jpg?raw=true" class="inline" width="100" height="100"/> | [Rodica Neamtu](http://web.cs.wpi.edu/~rneamtu/) | Professor | Computer Science & Data Science | rneamtu at wpi.edu
  | | | | 
  | | | | 
  | | | | 
