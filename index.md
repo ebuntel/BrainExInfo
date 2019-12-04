@@ -2,7 +2,7 @@
 
 ### Introduction
 
-BrainEx is a system in development for exploring similarities in time-series data. Built on the [ONEX](https://c2research.github.io/onex-website/) time-series exploration algorithm, BrainEx allows for evaluation of similaritiy between time-series of different lengths while maintaining a high level of efficiency and interactivity. This is accomplished by using clustering based on euclidean distances in the preprocessing step to reduce the amount of relevant data at query-time. BrainEx can then use relatively expensive distance algorithms at query-time while maintaining high speed. This is particularly desirable for applications such as time-series fNIRS data which is extremely computationally costly to work with using generic algorithms.    
+Time series are generated at an unprecedented rate in domains ranging from finances, health care and weather forecasting to education and economy. Collections composed of heterogeneous, variable-length and misaligned times series are best explored using dynamic time warping tools. However, the computational costs of using elastic distancesoften result in unacceptable response times. We are adressing the above challenges with BrainEx. BrainEx is an interactive system incorporating pairs of point-wise distances and their warped variants to achieve near real time responsiveness required by human interaction while yielding highly accurate results.  BrainEx is a fast and efficient solution to the challenge of using expensive-to-compute warped distances over large datasets, with response times 3 to 5 orders of magnitude faster than competitor systems.    
 
 ### Publications 
 
@@ -16,7 +16,7 @@ BrainEx is based upon the [ONEX](https://c2research.github.io/onex-website/) tim
 ### People
 
 Picture | Name | Position | Discipline | Email
----|---|---|---|---
+---|:---:|:---:|:---:|:---:
  <img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/rneamtu.jpg?raw=true" class="inline" width="100" height="100"/> | [Rodica Neamtu](http://web.cs.wpi.edu/~rneamtu/) | Professor | Computer Science & Data Science | rneamtu at wpi.edu
 <img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/ErinSolovey.jpg?raw=true" class="inline" width="100" height="100"/> | [Erin Solovey](http://users.wpi.edu/~esolovey/) | Professor | Computer Science | esolovey at wpi.edu
 <img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/elke.jpg?raw=true" class="inline" width="100" height="100"/> | [Elke Rudensteiner](http://davis.wpi.edu/dsrg/MEMBERS/rundenst/) | Professor | Computer Science & Data Science | rundenst at cs.wpi.edu
