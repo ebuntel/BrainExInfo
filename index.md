@@ -15,7 +15,7 @@ BrainEx is based upon the [ONEX](https://c2research.github.io/onex-website/) tim
 
 ### People
 
-Picture | Name | Position | Discipline | Email | Picture | Name | Position | Discipline | Email
+Picture | Name | Position | Discipline | Email 
 ---|:---:|:---:|:---:|:---:
  <img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/rneamtu.jpg?raw=true" class="inline" width="100" height="100"/> | [Rodica Neamtu](http://web.cs.wpi.edu/~rneamtu/) | Professor | Computer Science & Data Science | rneamtu at wpi.edu 
  <img src="https://github.com/ebuntel/BrainExInfo/blob/master/assets/ErinSolovey.jpg?raw=true" class="inline" width="100" height="100"/> | [Erin Solovey](http://users.wpi.edu/~esolovey/) | Professor | Computer Science | esolovey at wpi.edu
