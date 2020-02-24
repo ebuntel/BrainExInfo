@@ -2,9 +2,6 @@
 title: BrainEx
 ---
 
-hello
-=====
-
 ## BrainEx
 
 ### Introduction
