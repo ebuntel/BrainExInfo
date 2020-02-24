@@ -12,7 +12,7 @@ title: BrainEx Documentation
 2. Install Python3.7 ([Link](https://tecadmin.net/install-python-3-7-on-centos/))
 3. Create a conda environment to run genex in:
 
-'''bash
+'''
 conda create -n myenv python=3.7
 '''
 
