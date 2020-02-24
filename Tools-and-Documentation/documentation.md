@@ -15,13 +15,15 @@ title: BrainEx Documentation
 '''bash
 conda create -n myenv python=3.7
 '''
+
 4. Install genex requirements (ie: python -m pip install <PACKAGE>)
   
-  Numpy
-  Scipy
-  Cython
-  Tslearn
-  Pandas
-  Matplotlib
-  Pyspark
+  * Numpy
+  * Scipy
+  * Cython
+  * Tslearn
+  * Pandas
+  * Matplotlib
+  * Pyspark
+  
 5. Install spark ([Link](https://gist.github.com/codspire/ee4a46ec054f962d9ef028b27fcb2635)) (Make sure to install JDK 8 first)
