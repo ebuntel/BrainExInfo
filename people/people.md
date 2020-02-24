@@ -2,6 +2,8 @@
 title: BrainEx People
 ---
 
+[Main](https://ebuntel.github.io/BrainExInfo/) | People | [Publications](https://ebuntel.github.io/BrainExInfo/publications/publications) | [Tools / Documentation](https://ebuntel.github.io/BrainExInfo/Tools-and-Documentation/documentation)
+
 ## People
 
 Picture | Name | Position | Discipline | Email 
