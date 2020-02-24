@@ -2,7 +2,7 @@
 title: BrainEx Publications
 ---
 
-[Main](index.md) | [People](/people/people.md) | Publications | Tools / Documentation
+[Main](https://ebuntel.github.io/BrainExInfo/) | [People](https://ebuntel.github.io/BrainExInfo/people/people) | Publications | Tools / Documentation
 
 ## Publications 
 
